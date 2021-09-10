@@ -1,0 +1,33 @@
+E:\pavel\Documents\Универчик\Заказики\LifeTree\LifeTree\LifeTree\obj\Debug\LifeTree.csprojResolveAssemblyReference.cache
+E:\pavel\Documents\Универчик\Заказики\LifeTree\LifeTree\LifeTree\obj\Debug\LifeTree.Controls.NamedTextBox.resources
+E:\pavel\Documents\Универчик\Заказики\LifeTree\LifeTree\LifeTree\obj\Debug\LifeTree.Controls.TreeViewPanel.resources
+E:\pavel\Documents\Универчик\Заказики\LifeTree\LifeTree\LifeTree\obj\Debug\LifeTree.Forms.LoginForm.resources
+E:\pavel\Documents\Универчик\Заказики\LifeTree\LifeTree\LifeTree\obj\Debug\LifeTree.Forms.MainForm.resources
+E:\pavel\Documents\Универчик\Заказики\LifeTree\LifeTree\LifeTree\obj\Debug\LifeTree.Forms.RegForm.resources
+E:\pavel\Documents\Универчик\Заказики\LifeTree\LifeTree\LifeTree\obj\Debug\LifeTree.Forms.TreeViewForm.resources
+E:\pavel\Documents\Универчик\Заказики\LifeTree\LifeTree\LifeTree\obj\Debug\LifeTree.Forms.TreeManageForm.resources
+E:\pavel\Documents\Универчик\Заказики\LifeTree\LifeTree\LifeTree\obj\Debug\LifeTree.Forms.TreeEditForm.resources
+E:\pavel\Documents\Универчик\Заказики\LifeTree\LifeTree\LifeTree\obj\Debug\LifeTree.csproj.GenerateResource.Cache
+E:\pavel\Documents\Универчик\Заказики\LifeTree\LifeTree\LifeTree\bin\Debug\Дерево жизни.exe.config
+E:\pavel\Documents\Универчик\Заказики\LifeTree\LifeTree\LifeTree\bin\Debug\Дерево жизни.exe
+E:\pavel\Documents\Универчик\Заказики\LifeTree\LifeTree\LifeTree\bin\Debug\Дерево жизни.pdb
+E:\pavel\Documents\Универчик\Заказики\LifeTree\LifeTree\LifeTree\obj\Debug\LifeTree.Properties.Resources.resources
+E:\pavel\Documents\Универчик\Заказики\LifeTree\LifeTree\LifeTree\obj\Debug\Дерево жизни.exe
+E:\pavel\Documents\Универчик\Заказики\LifeTree\LifeTree\LifeTree\obj\Debug\Дерево жизни.pdb
+C:\Users\USER\Downloads\LifeTree\LifeTree\bin\Debug\Дерево жизни.exe.config
+C:\Users\USER\Downloads\LifeTree\LifeTree\bin\Debug\Дерево жизни.exe
+C:\Users\USER\Downloads\LifeTree\LifeTree\bin\Debug\Дерево жизни.pdb
+C:\Users\USER\Downloads\LifeTree\LifeTree\obj\Debug\LifeTree.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\LifeTree\LifeTree\obj\Debug\LifeTree.Controls.NamedTextBox.resources
+C:\Users\USER\Downloads\LifeTree\LifeTree\obj\Debug\LifeTree.Controls.TreeViewPanel.resources
+C:\Users\USER\Downloads\LifeTree\LifeTree\obj\Debug\LifeTree.Forms.LoginForm.resources
+C:\Users\USER\Downloads\LifeTree\LifeTree\obj\Debug\LifeTree.Forms.MainForm.resources
+C:\Users\USER\Downloads\LifeTree\LifeTree\obj\Debug\LifeTree.Properties.Resources.resources
+C:\Users\USER\Downloads\LifeTree\LifeTree\obj\Debug\LifeTree.Forms.RegForm.resources
+C:\Users\USER\Downloads\LifeTree\LifeTree\obj\Debug\LifeTree.Forms.TreeViewForm.resources
+C:\Users\USER\Downloads\LifeTree\LifeTree\obj\Debug\LifeTree.Forms.TreeManageForm.resources
+C:\Users\USER\Downloads\LifeTree\LifeTree\obj\Debug\LifeTree.Forms.TreeEditForm.resources
+C:\Users\USER\Downloads\LifeTree\LifeTree\obj\Debug\LifeTree.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\LifeTree\LifeTree\obj\Debug\LifeTree.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\LifeTree\LifeTree\obj\Debug\Дерево жизни.exe
+C:\Users\USER\Downloads\LifeTree\LifeTree\obj\Debug\Дерево жизни.pdb
